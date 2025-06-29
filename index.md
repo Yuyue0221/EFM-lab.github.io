@@ -5,16 +5,5 @@ title: Home
 # <i class="fas fa-flask"></i>Home
 
 
-The COMBINE lab was created in the fall of 2014, when [Rob Patro](https://combine-lab.github.io/members/rob-patro.html) joined the [Department of Computer Science at Stony Brook University](https://www.cs.stonybrook.edu/).  In 2019, the lab moved to the [Department of Computer Science at the University of Maryland](https://www.cs.umd.edu/).  Our research interests span many areas of computational / algorithmic genomics, but our core focus is on the development of algorithms, data structures, and statistical inference methods for analyzing high-throughput sequencing data.
-
-### Research Interests
-
-The research interests of our lab broadly span many areas of computational biology and bioinformatics.  Some of our main areas of interest include:
-
-  * Algorithms for high-throughput transcriptomics (RNA-seq)
-    * assembly, quantification, *de novo* analysis, differential expression
-    * gene expression analysis of single-cell sequencing data (specifically, single-cell RNA-seq)
-  * Data structures for indexing genomes and raw genomic data
-    * data structures for building, indexing and querying one or more reference genomes
-    * data structures for indexing collections of tens of thousands of raw sequencing experiments
-  * Applications of approximate and data-driven representations and data structures in bioinformatics
+We are an interdisciplinary research team in the Department of Food Science and Nutrition at The Hong Kong Polytechnic University, dedicated to integrating nanomaterials science, biomimetic optics, and functional nutrition to address cutting-edge challenges in health, sustainability, and smart materials. By deeply intersecting material design with nutritional mechanisms, we develop innovative solutions that endow food and biological systems with new functionalities.
+我们是香港理工大学食品科学及营养学系的跨学科研究团队，致力于融合纳米材料科学、仿生光学工程与功能营养学，以应对健康、可持续与智慧材料领域的前沿挑战。通过材料设计与营养机制的深度交叉，我们开发创新解决方案，赋能食品与生物系统的新功能。
