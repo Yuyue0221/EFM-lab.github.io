@@ -5,7 +5,7 @@ search:
   - Yuan
 role: phd
 group: current
-image: images/yuan.png
+image: images/Qiu_yuwei.png
 email: ygao61@umd.edu
 github: ygao61
 ---
