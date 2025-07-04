@@ -442,6 +442,9 @@ A multi-size _portrait_ component with an image, link, name, and role icon, usef
 <i class="fas fa-vial"></i>
 <i class="fas fa-bacteria"></i>
 <i class="fas fa-virus"></i>
+<i class="fas fa-handshake-angle"></i>
+<i class="fas fa-flask-vial"></i>
+<i class="fa-solid fa-handshake-angle"></i>
 
 Use the same [style](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use) of icon across your site to maintain a consistent look.
 See the [styling section](https://fontawesome.com/how-to-use/on-the-web/styling/sizing-icons) of their docs to see some of the easy ways you can modify the look of the icons.
