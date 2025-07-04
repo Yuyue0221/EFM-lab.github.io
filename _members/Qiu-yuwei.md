@@ -3,7 +3,7 @@ title: QIU Yuwei
 search:
   - Y. QIU
   - Yuwei
-role: pi
+role: postdoc
 group: postdoc
 image: images/Qiu_yuwei.jpg
 email: yuwei.qiu@polyu.edu.hk
