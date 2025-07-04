@@ -5,7 +5,7 @@ search:
   - Jiyu
 role: ra
 group: ra
-image: images/Yang_jiyu.jpg
+image: images/Yang jiyu.jpg
 email: jiyuyang@polyu.edu.hk
 ---
 

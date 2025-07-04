@@ -5,7 +5,7 @@ search:
   - Yiran
 role: ra
 group: ra
-image: images/Yang_yiran.jpg
+image: images/Yang yiran.jpg
 email: yiranyeung0402@outlook.com
 ---
 

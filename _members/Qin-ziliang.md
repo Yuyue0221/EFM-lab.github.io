@@ -5,7 +5,7 @@ search:
   - Ziliang
 role: ra
 group: ra
-image: images/Qin_ziliang.jpg
+image: images/Qin ziliang.jpg
 email: qzlneau@163.com
 ---
 

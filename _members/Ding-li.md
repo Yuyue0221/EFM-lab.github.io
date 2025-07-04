@@ -5,7 +5,7 @@ search:
   - Li
 role: postdoc
 group: postdoc
-image: images/Ding_li.jpg
+image: images/Ding li.jpg
 email: fsn-li.ding@polyu.edu.hk
 ---
 Co-PI Prof. CHEN Sheng

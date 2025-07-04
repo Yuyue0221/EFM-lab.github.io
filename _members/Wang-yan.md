@@ -5,7 +5,7 @@ search:
   - Yan
 role: ra
 group: ra
-image: images/Wang_yan.jpg
+image: images/Wang yan.jpg
 email: 24051023G@connect.polyu.hk
 ---
 

@@ -5,7 +5,7 @@ search:
   - Kai
 role: postdoc
 group: postdoc
-image: images/Feng_kai.jpg
+image: images/Feng kai.jpg
 email: fsnkai.feng@polyu.edu.hk
 ---
 Co-PI Prof. CHEN Sheng

@@ -5,7 +5,7 @@ search:
   - Ling
 role: phd
 group: pg
-image: images/Li_ling.jpg
+image: images/Li ling.jpg
 email: lilingscu2022@163.com
 ---
 

@@ -5,7 +5,7 @@ search:
   - Huangzhipeng
 role: master-g
 group: alumni
-image: images/Wu_huangzhipeng.jpg
+image: images/Wu huangzhipeng.jpg
 email: huangzhipeng.wu@connect.polyu.hk
 ---
 

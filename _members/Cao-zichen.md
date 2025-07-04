@@ -5,7 +5,7 @@ search:
   - Zichen
 role: visitor
 group: visitor
-image: images/Cao_zichen.jpg
+image: images/Cao zichen.jpg
 email: zichen.cao@connect.polyu.hk
 ---
 PhD at Northeast Agricultural University

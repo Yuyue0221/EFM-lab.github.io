@@ -5,7 +5,7 @@ search:
   - Shuqi
 role: phd
 group: pg
-image: images/Wang_shuqi.jpg
+image: images/Wang shuqi.jpg
 email: 15840130507@163.com
 ---
 

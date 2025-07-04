@@ -5,7 +5,7 @@ search:
   - Shengyang
 role: phd
 group: pg
-image: images/Li_shengyang.jpg
+image: images/Li shengyang.jpg
 email: shengyang.li@connect.polyu.hk
 ---
 

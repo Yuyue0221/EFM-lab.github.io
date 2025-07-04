@@ -5,7 +5,7 @@ search:
   - Lanbo
 role: fellow
 group: fellow
-image: images/Shen_lanbo.jpg
+image: images/Shen lanbo.jpg
 email: echoqinglan@163.com
 ---
 

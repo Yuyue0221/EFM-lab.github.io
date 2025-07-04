@@ -5,7 +5,7 @@ search:
   - Xiaoning
 role: phd
 group: pg
-image: images/Liu_xiaoning.jpg
+image: images/Liu xiaoning.jpg
 email: lxn9520@163.com
 ---
 
