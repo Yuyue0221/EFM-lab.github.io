@@ -1,10 +1,10 @@
 # https://jekyllrb.com/docs/configuration/
 
 # site-wide variables
-title: EFM-lab # title of site, used in tab name and elsewhere
+title: BFM-lab # title of site, used in tab name and elsewhere
 email: yuyue.zhong@polyu.edu.hk # default email
 google: Yuyue Zhong # default name to search on Google Scholar
-github: Yuyue0221/EFM-lab.github.io # default GitHub user/org, without the @
+github: Yuyue0221/BFM-lab.github.io # default GitHub user/org, without the @
 # twitter: nomad421 # default Twitter handle, without the @
 #instagram: fakeinstagramhandle # default Instagram handle, without the @
 #youtube: fakeyoutubechannel # default YouTube channel handle
