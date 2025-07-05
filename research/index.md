@@ -15,7 +15,7 @@ title: Research
     border-bottom: 3px solid #ccc;
     display: inline-block;
     padding: 0.2em 1em;
-    background: linear-gradient(to bottom, #eecbff, #ffe8f0);
+    background: linear-gradient(to bottom, #e0f2ff, #ffffff);
     border-radius: 8px;
   }
 
