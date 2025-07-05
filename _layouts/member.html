@@ -55,8 +55,8 @@ layout: default
 {% capture search %}
 {% for name in names %}"{{ name }}" {% endfor %}
 {% endcapture %}
-
-{% assign search =  search | strip | prepend: "/research/?search=" %}
+<!-- 
+{% assign search =  search | strip | prepend: "/research/?search=" %} -->
 
 {% capture text %}
 {{ page.title }}'s papers
