@@ -50,3 +50,5 @@ We are an interdisciplinary team dedicated to integrating nanomaterials science,
 ### Alumni
 We are incredibly proud of all of our alumni. If you’re missing and would like to be added, please email us.
 {% include team-list.html role="alumni" group="alumni" %}
+{% include team-list.html role="master-g" group="alumni" %}
+{% include team-list.html role="phd-g" group="alumni" %}
