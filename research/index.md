@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2772d989-c76a-4d74-9e64-7513d98ec80b)![image](https://github.com/user-attachments/assets/4d1e9958-6d19-4f4c-815f-184f20741da6)![image](https://github.com/user-attachments/assets/1d24dbdb-7ed8-4f40-8da0-bbacdfc50f13)---
+---
 title: Research
 ---
 
