@@ -5,8 +5,9 @@ search:
   - Kexin
 role: alumni
 group: alumni
-image: images/Qiao_kexin.jpg
+image: images/Qiao kexin.jpg
 email: 24122386g@connect.polyu.hk
 ---
+Master
 
-Research interests: TBD
+Research interests: aerogel, precise nutrition, functional food, bioactive molecule
