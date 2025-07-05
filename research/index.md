@@ -83,11 +83,6 @@ title: Research
   </div>
 
   <div class="research-box">
-    <img src="images/quantum-dots.png" alt="Quantum dots">
-    <div class="research-box-title">Quantum dots</div>
-  </div>
-
-  <div class="research-box">
     <img src="images/assembly.png" alt="Assembly">
     <div class="research-box-title">assembly</div>
   </div>
