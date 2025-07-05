@@ -38,7 +38,7 @@ We are an interdisciplinary team dedicated to integrating nanomaterials science,
 ---
 
 ### Research Assistants
-{% include team-list.html role="programmer" group="ra" %}
+{% include team-list.html role="ra" group="ra" %}
 
 ---
 
