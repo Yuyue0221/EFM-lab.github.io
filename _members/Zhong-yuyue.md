@@ -14,10 +14,10 @@ Research Assistant Professor
 
 MSCA Postdoctoral scholar
 
-**Education and Academic Qualifications**
+<p style="text-align: center;"><strong>Education and Academic Qualifications</strong></p>
 
 Doctor of Philosophy, University of Copenhagen
 
-**Academic and Professional Experience**
+<p style="text-align: center;"><strong>Academic and Professional Experience</strong></p>
 
 The young editor, Grain and Oil Science and Technology 
