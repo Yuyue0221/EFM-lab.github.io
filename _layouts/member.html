@@ -38,9 +38,7 @@ layout: default
 {% endif %}
 {% endcapture %}
 
-{%- comment -%}
 {% include centerer.html html=html %}
-{%- endcomment -%}
 
 {{ content }}
 
@@ -69,4 +67,6 @@ layout: default
 {% endcapture %}
 {%- endcomment -%}
 
-{% include centerer.html html=html %}
+{% capture html %}
+{% include role.html type=page.role text=true %}
+{% endcapture %}
