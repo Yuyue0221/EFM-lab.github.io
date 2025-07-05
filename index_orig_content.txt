@@ -381,20 +381,28 @@ To see the built-in roles and add your own, see `/_includes/role.html`.
 %}
 {%
   include role.html
-  type="programmer"
+  type="ra"
   text=true
 %}
 {%
   include role.html
-  type="pi"
+  type="visitor"
 %}
 {%
   include role.html
-  type="phd"
+  type="postdoc"
 %}
 {%
   include role.html
-  type="programmer"
+  type="phd-g"
+%}
+{%
+  include role.html
+  type="master-g"
+%}
+{%
+  include role.html
+  type="fellow"
 %}
 {% endcapture %}
 
@@ -442,8 +450,8 @@ A multi-size _portrait_ component with an image, link, name, and role icon, usef
 <i class="fas fa-vial"></i>
 <i class="fas fa-bacteria"></i>
 <i class="fas fa-virus"></i>
-<i class="fas fa-handshake-angle"></i>
-<i class="fas fa-flask-vial"></i>
+<i class="fa-solid fa-handshake-angle"></i>
+<i class="fa-solid fa-flask-vial"></i>
 <i class="fa-solid fa-handshake-angle"></i>
 
 Use the same [style](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use) of icon across your site to maintain a consistent look.
