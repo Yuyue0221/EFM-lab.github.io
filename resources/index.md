@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-# <i class="fas fa-tools"></i>Resources
+# <i class="fas fa-book"></i>Publications
 
 <!-- section break -->
 
