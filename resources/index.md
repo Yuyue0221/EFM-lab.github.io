@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Publications
 ---
 
 # <i class="fas fa-tools"></i>Resources
