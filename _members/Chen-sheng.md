@@ -5,7 +5,7 @@ search:
   - Sheng
 role: pi
 group: pi
-image: images/Chen Sheng.jpg
+image: images/Chen Sheng.png
 email: sheng.chen@polyu.edu.hk
 ---
 Head (FSN) & Chair Professor of Microbiology
