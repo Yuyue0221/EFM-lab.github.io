@@ -42,7 +42,7 @@ title: Research
   }
 
   .research-box img {
-    width: 260px;
+    width: 1000px;
     height: 180px;
     object-fit: contain;
     border-radius: 8px;
