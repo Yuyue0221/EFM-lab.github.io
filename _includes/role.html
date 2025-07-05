@@ -1,6 +1,11 @@
 {%- assign icon = "fas fa-user" -%}
 {%- assign text = "Default Role" -%}
 
+{%- if include.type == "alumni" -%}
+{%- assign icon = "fas fa-user" -%}
+{%- assign text = "Alumni" -%}
+{%- endif -%}
+
 {%- if include.type == "pi" -%}
 {%- assign icon = "fas fa-microscope" -%}
 {%- assign text = "Principal Investigator" -%}
@@ -18,7 +23,7 @@
 
 {%- if include.type == "visitor" -%}
 {%- assign icon = "fas fa-glasses" -%}
-{%- assign text = "Visitiong Scholar" -%}
+{%- assign text = "Visiting Scholar" -%}
 {%- endif -%}
 
 {%- if include.type == "phd" -%}
