@@ -21,7 +21,7 @@ title: Research
 
   .research-section {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 1.5em;
     margin-bottom: 3em;
@@ -29,15 +29,25 @@ title: Research
   }
 
   .research-box {
-    flex: 1 1 250px;
-    max-width: 300px;
+    width: 260px;
+    background: #fff;
+    border-radius: 12px;
+    padding: 1em;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    transition: transform 0.3s ease;
+  }
+
+  .research-box:hover {
+    transform: translateY(-5px);
   }
 
   .research-box img {
     width: 100%;
-    height: auto;
+    height: 180px;
+    object-fit: contain;
     border-radius: 8px;
     box-shadow: 0px 0px 5px #aaa;
+    background: #f8f8f8;
   }
 
   .research-box-title {
