@@ -1,5 +1,5 @@
 ---
-title: CHEN Sheng
+title: Prof. CHEN Sheng
 search:
   - S. CHEN
   - Sheng
@@ -10,7 +10,7 @@ email: sheng.chen@polyu.edu.hk
 ---
 Head (FSN) & Chair Professor of Microbiology
 
-<p style="text-align: center;"><strong>Education and Academic Qualifications</strong></p>
+**Education and Academic Qualifications**
 
   Bachelor of Science in Agriculture, China Agricultural University
 
@@ -18,7 +18,7 @@ Head (FSN) & Chair Professor of Microbiology
 
   Doctor of Philosophy, University of Maryland
 
-<p style="text-align: center;"><strong>Awards</strong></p>
+**Awards**
 
   Fellow of American Academy of Microbiology 
 
