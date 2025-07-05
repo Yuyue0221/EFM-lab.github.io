@@ -1,5 +1,5 @@
 ---
-title: ZHONG Yuyue
+title: Prof. ZHONG Yuyue
 search:
   - Y. ZHONG
   - Yuyue
@@ -10,14 +10,14 @@ email: yuyue.zhong@polyu.edu.hk
 ---
 Research Assistant Professor
 
-<p style="text-align: center;"><strong>Awards</strong></p>
+**Awards**
 
 MSCA Postdoctoral scholar
 
-<p style="text-align: center;"><strong>Education and Academic Qualifications</strong></p>
+**Education and Academic Qualifications**
 
 Doctor of Philosophy, University of Copenhagen
 
-<p style="text-align: center;"><strong>Academic and Professional Experience</strong></p>
+**Academic and Professional Experience**
 
 The young editor, Grain and Oil Science and Technology 
