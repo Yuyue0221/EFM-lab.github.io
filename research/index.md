@@ -53,7 +53,7 @@ title: Research
 <div class="research-section">
 
   <div class="research-box">
-    <img src="/images/nanoparticle.png" alt="Nanoparticle">
+    <img src="{{ '/images/nanoparticle.png' | relative_url }}" alt="Nanoparticle">
     <div class="research-box-title">Nanoparticle</div>
   </div>
 
