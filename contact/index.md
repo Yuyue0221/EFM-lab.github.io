@@ -11,10 +11,10 @@ We are located on the 5rd floor of the Yip Kit Chuen Building.
 
 ## Email
 
-<style type="text/css">
-   span.codedirection { unicode-bidi:bidi-override; direction: rtl; }
-</style>
-<span class="codedirection">yuyue.zhong@polyu.edu.hk</span>
+<a href="mailto:&#121;&#117;&#121;&#117;&#101;&#46;&#122;&#104;&#111;&#110;&#103;&#64;&#112;&#111;&#108;&#121;&#117;&#46;&#101;&#100;&#117;&#46;&#104;&#107;">
+  &#121;&#117;&#121;&#117;&#101;&#46;&#122;&#104;&#111;&#110;&#103;&#64;&#112;&#111;&#108;&#121;&#117;&#46;&#101;&#100;&#117;&#46;&#104;&#107;
+</a>
+
 {:.center}
 
 ## Phone
@@ -29,7 +29,9 @@ Tip: put both a mailing address for mail/deliveries, AND a navigation-friendly a
 {% endcomment %}
 
 TU515a, Yip Kit Chuen Building, 
+
 The Hong Kong Polytechnic University, 
+
 Hung Hom, Kowloon, Hong Kong
 {:.center}
 
