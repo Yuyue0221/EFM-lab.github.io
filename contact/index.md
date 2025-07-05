@@ -28,9 +28,9 @@ Tip: put both a mailing address for mail/deliveries, AND a navigation-friendly a
 {% endcomment %}
 
 TU515a, Yip Kit Chuen Building, 
-
+{:.center}
 The Hong Kong Polytechnic University, 
-
+{:.center}
 Hung Hom, Kowloon, Hong Kong
 {:.center}
 
