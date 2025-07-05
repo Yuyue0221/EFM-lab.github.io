@@ -38,7 +38,7 @@ layout: default
 {% endif %}
 {% endcapture %}
 
-<!-- {% include centerer.html html=html %} -->
+{% include centerer.html html=html %}
 
 {{ content }}
 
@@ -52,17 +52,19 @@ layout: default
 {% assign names = names | push: page.title %}
 {% endif %}
 
-<!-- {% capture search %}
+{%- comment -%}
+{% capture search %}
 {% for name in names %}"{{ name }}" {% endfor %}
 {% endcapture %}
-{% assign search =  search | strip | prepend: "/research/?search=" %} -->
+{% assign search =  search | strip | prepend: "/research/?search=" %}
 
-<!-- {% capture text %}
+{% capture text %}
 {{ page.title }}'s papers
-{% endcapture %} -->
+{% endcapture %}
 
-<!-- {% capture html %}
+{% capture html %}
 {% include big-link.html icon="fas fa-book-open" link=search text=text %}
-{% endcapture %} -->
+{% endcapture %}
+{%- endcomment -%}
 
 {% include centerer.html html=html %}
