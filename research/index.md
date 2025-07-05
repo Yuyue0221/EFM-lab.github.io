@@ -53,22 +53,22 @@ title: Research
 <div class="research-section">
 
   <div class="research-box">
-    <img src="images/nanoparticle.png" alt="Nanoparticle">
+    <img src="/images/nanoparticle.png" alt="Nanoparticle">
     <div class="research-box-title">Nanoparticle</div>
   </div>
 
   <div class="research-box">
-    <img src="images/quantum-dots.png" alt="Quantum dots">
+    <img src="/images/quantum-dots.png" alt="Quantum dots">
     <div class="research-box-title">Quantum dots</div>
   </div>
 
   <div class="research-box">
-    <img src="images/nanozyme.png" alt="Nanozyme">
+    <img src="/images/nanozyme.png" alt="Nanozyme">
     <div class="research-box-title">Nanozyme</div>
   </div>
 
   <div class="research-box">
-    <img src="/assets/images/drug-loading.png" alt="Drug loading/biomedical">
+    <img src="/images/drug-loading.png" alt="Drug loading/biomedical">
     <div class="research-box-title">Drug loading/biomedical</div>
   </div>
 
@@ -78,22 +78,22 @@ title: Research
 <div class="research-section">
 
   <div class="research-box">
-    <img src="images/source.png" alt="Source">
+    <img src="/images/source.png" alt="Source">
     <div class="research-box-title">Source</div>
   </div>
 
   <div class="research-box">
-    <img src="images/assembly.png" alt="Assembly">
+    <img src="/images/assembly.png" alt="Assembly">
     <div class="research-box-title">assembly</div>
   </div>
 
   <div class="research-box">
-    <img src="/assets/images/structural-colors.png" alt="Structural colors">
+    <img src="/images/structural-colors.png" alt="Structural colors">
     <div class="research-box-title">Structural colors/biomedical</div>
   </div>
 
   <div class="research-box">
-    <img src="/assets/images/beauty-skincare.png" alt="Beauty and skin care">
+    <img src="/images/beauty-skincare.png" alt="Beauty and skin care">
     <div class="research-box-title">Beauty and skin care</div>
   </div>
 
@@ -105,17 +105,17 @@ title: Research
 <div class="research-section">
 
   <div class="research-box">
-    <img src="images/functional-molecules.png" alt="Functional molecules">
+    <img src="/images/functional-molecules.png" alt="Functional molecules">
     <div class="research-box-title">Functional molecules</div>
   </div>
 
   <div class="research-box">
-    <img src="images/anti-aging.png" alt="Anti-aging">
+    <img src="/images/anti-aging.png" alt="Anti-aging">
     <div class="research-box-title">Anti-aging</div>
   </div>
 
   <div class="research-box">
-    <img src="images/people-pets.png" alt="People and Pets">
+    <img src="/images/people-pets.png" alt="People and Pets">
     <div class="research-box-title">People and Pets</div>
   </div>
 
