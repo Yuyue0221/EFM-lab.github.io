@@ -1,10 +1,127 @@
----
+![image](https://github.com/user-attachments/assets/2772d989-c76a-4d74-9e64-7513d98ec80b)![image](https://github.com/user-attachments/assets/4d1e9958-6d19-4f4c-815f-184f20741da6)![image](https://github.com/user-attachments/assets/1d24dbdb-7ed8-4f40-8da0-bbacdfc50f13)---
 title: Research
 ---
 
-# <i class="fas fa-microscope"></i>Research
+# <i class="fas fa-microscope"></i>Research Topics
 
-Even with this excellent website template, this is the most difficult section of the website to create initially.  It requires 
-extracting our publications into **yet another format**.  While we work on creating this part of the website so that we have 
-a unified list of publications on the web that is (hopefully) easy to maintain --- you might find an unofficial list on 
-[Rob's Google Scholar page](https://scholar.google.com/citations?user=H36hOqEAAAAJ&hl=en).
+
+<style>
+  .section-title {
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: bold;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    border-bottom: 3px solid #ccc;
+    display: inline-block;
+    padding: 0.2em 1em;
+    background: linear-gradient(to bottom, #f9f9f9, #ddd);
+    border-radius: 8px;
+  }
+
+  .research-section {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 1.5em;
+    margin-bottom: 3em;
+    text-align: center;
+  }
+
+  .research-box {
+    flex: 1 1 250px;
+    max-width: 300px;
+  }
+
+  .research-box img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px #aaa;
+  }
+
+  .research-box-title {
+    font-weight: bold;
+    margin-top: 0.8em;
+    font-size: 1.1em;
+  }
+</style>
+
+
+<!-- Nanomaterials Section -->
+<div class="section-title">Nanomaterials</div>
+<div class="research-section">
+
+  <div class="research-box">
+    <img src="images/nanoparticle.png" alt="Nanoparticle">
+    <div class="research-box-title">Nanoparticle</div>
+  </div>
+
+  <div class="research-box">
+    <img src="images/quantum-dots.png" alt="Quantum dots">
+    <div class="research-box-title">Quantum dots</div>
+  </div>
+
+  <div class="research-box">
+    <img src="images/nanozyme.png" alt="Nanozyme">
+    <div class="research-box-title">Nanozyme</div>
+  </div>
+
+  <div class="research-box">
+    <img src="/assets/images/drug-loading.png" alt="Drug loading/biomedical">
+    <div class="research-box-title">Drug loading/biomedical</div>
+  </div>
+
+</div>
+
+<div class="section-title">Bio-inspired optics</div>
+<div class="research-section">
+
+  <div class="research-box">
+    <img src="images/source.png" alt="Source">
+    <div class="research-box-title">Source</div>
+  </div>
+
+  <div class="research-box">
+    <img src="images/quantum-dots.png" alt="Quantum dots">
+    <div class="research-box-title">Quantum dots</div>
+  </div>
+
+  <div class="research-box">
+    <img src="images/assembly.png" alt="Assembly">
+    <div class="research-box-title">assembly</div>
+  </div>
+
+  <div class="research-box">
+    <img src="/assets/images/structural-colors.png" alt="Structural colors">
+    <div class="research-box-title">Structural colors/biomedical</div>
+  </div>
+
+  <div class="research-box">
+    <img src="/assets/images/beauty-skincare.png" alt="Beauty and skin care">
+    <div class="research-box-title">Beauty and skin care</div>
+  </div>
+
+</div>
+
+
+<!-- Functional Nutrition Section -->
+<div class="section-title">Functional Nutrition</div>
+<div class="research-section">
+
+  <div class="research-box">
+    <img src="images/functional-molecules.png" alt="Functional molecules">
+    <div class="research-box-title">Functional molecules</div>
+  </div>
+
+  <div class="research-box">
+    <img src="images/anti-aging.png" alt="Anti-aging">
+    <div class="research-box-title">Anti-aging</div>
+  </div>
+
+  <div class="research-box">
+    <img src="images/people-pets.png" alt="People and Pets">
+    <div class="research-box-title">People and Pets</div>
+  </div>
+
+</div>
