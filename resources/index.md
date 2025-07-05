@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Resources
 ---
 
 # <i class="fas fa-book"></i>Publications
