@@ -10,4 +10,5 @@ email: yuwei.qiu@polyu.edu.hk
 ---
 Postdoc, Co-PI Prof. CHEN Sheng
 
-Research interests: Structural color, Applications of cellulose nanocrystals and hydroxypropyl cellulose in the health and wellness sector
+Research Interests: Bio-based nanozyme; Bio-based functional nanomaterials.                                  
+
