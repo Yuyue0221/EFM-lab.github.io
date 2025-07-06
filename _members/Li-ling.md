@@ -9,4 +9,4 @@ image: images/Li ling.jpg
 email: lilingscu2022@163.com
 ---
 
-Research interests: Food Microorganism.
+Research interests: Food Microbiology, Smart Packaging, Freshness Monitoring.
