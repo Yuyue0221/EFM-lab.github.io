@@ -34,5 +34,5 @@ The Hong Kong Polytechnic University,
 Hung Hom, Kowloon, Hong Kong
 {:.center}
 
-[<i class="fas fa-external-link-alt"></i> on Google Maps]((https://www.google.com/maps/place/Yip+Kit+Chuen+Building,+The+Hong+Kong+Polytechnic+University/@22.305114,114.1782901,17z/data=!4m6!3m5!1s0x340400e7c882a23b:0x87e63d73ce59c7f!8m2!3d22.305114!4d114.180865!16s%2Fg%2F12hkn_5v0?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D))
+[<i class="fas fa-external-link-alt"></i> on Google Maps](https://www.google.com/maps/place/Yip+Kit+Chuen+Building,+The+Hong+Kong+Polytechnic+University/@22.305114,114.1782901,17z/data=!4m6!3m5!1s0x340400e7c882a23b:0x87e63d73ce59c7f!8m2!3d22.305114!4d114.180865!16s%2Fg%2F12hkn_5v0?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D)
 {:.center}
