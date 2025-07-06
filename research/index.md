@@ -44,7 +44,7 @@ title: Research
   .research-box img {
     width: 100%;
     height: 180px;
-    object-fit: contain;
+    object-fit: cover;
     border-radius: 8px;
     box-shadow: 0px 0px 5px #aaa;
     background: #f8f8f8;
