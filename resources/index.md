@@ -14,9 +14,6 @@ Journal Papers
 ======
 (\* denotes corresponding authors)
 
-.left-align-heading {
-  text-align: left !important;
-}
 
 ### <span class="text-left"> 31. Effects of natural starch-phosphate monoester content on the multi-scale structures of potato starches
 
