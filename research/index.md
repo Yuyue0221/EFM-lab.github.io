@@ -50,14 +50,14 @@ title: Research
   }
 
 
-  .research-box img {
-    width: 280px;
-    height: 250px;
-    object-fit: contain;
-    border-radius: 8px;
-    box-shadow: 0px 0px 5px #aaa;
-    background: #f8f8f8;
-  }
+.research-box img {
+  width: 100%;
+  height: 100%;      /* fill the box exactly */
+  object-fit: fill;  /* stretch/squash image to fill container */
+  border-radius: 6px;
+  background: #f8f8f8;
+  display: block;
+}
 
 
   .research-box-title {
