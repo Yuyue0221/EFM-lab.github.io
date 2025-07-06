@@ -52,8 +52,8 @@ title: Research
 
 .research-box img {
   width: 100%;
-  height: 100%;      /* fill the box exactly */
-  object-fit: fill;  /* stretch/squash image to fill container */
+  flex-grow: 1;          /* take remaining vertical space */
+  object-fit: fill;      /* stretch image */
   border-radius: 6px;
   background: #f8f8f8;
   display: block;
