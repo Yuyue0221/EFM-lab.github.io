@@ -28,25 +28,29 @@ title: Research
     text-align: center;
   }
 
-  .research-box {
-    width: 260px;
-    background: #fff;
-    border-radius: 12px;
-    padding: 1em;
-    box-shadow: 0 0 10px rgba(0,0,0,0.05);
-    transition: transform 0.3s ease;
-  }
+.research-box {
+  width: 240px;
+  background: #fff;
+  border-radius: 10px;
+  padding: 0.8em;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  transition: transform 0.3s ease;
+  box-sizing: border-box; /* ensures padding is included in box size */
+  overflow: hidden; /* prevent image overflow */
+}
+
 
   .research-box:hover {
     transform: translateY(-5px);
   }
 
   .research-box img {
-    width: 250px;
-    height: 180px;
+    width: 100%;
+    height: 160px;
     object-fit: cover;
-    border-radius: 8px;
-    box-shadow: 0px 0px 5px #aaa;
+    display: block; /* removes any inline spacing */
+    border-radius: 6px;
+    box-shadow: 0px 0px 4px #aaa;
     background: #f8f8f8;
   }
 
