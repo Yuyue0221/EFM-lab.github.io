@@ -10,4 +10,4 @@ email: huangzhipeng.wu@connect.polyu.hk
 ---
 Master
 
-Research interests: aerogel, precise nutrition, functional food, bioactive molecule
+Research interests: In vitro digestion; PDA photonic crystals
