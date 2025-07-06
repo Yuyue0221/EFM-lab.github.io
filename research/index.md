@@ -30,13 +30,17 @@ title: Research
 
 .research-box {
   width: 240px;
+  height: 200px;
   background: #fff;
   border-radius: 10px;
   padding: 0.8em;
   box-shadow: 0 0 10px rgba(0,0,0,0.05);
-  transition: transform 0.3s ease;
-  box-sizing: border-box; /* ensures padding is included in box size */
-  overflow: hidden; /* prevent image overflow */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  overflow: hidden;
 }
 
 
@@ -44,15 +48,15 @@ title: Research
     transform: translateY(-5px);
   }
 
-  .research-box img {
-    width: 100%;
-    height: 160px;
-    object-fit: cover;
-    display: block; /* removes any inline spacing */
-    border-radius: 6px;
-    box-shadow: 0px 0px 4px #aaa;
-    background: #f8f8f8;
-  }
+
+.research-box img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: scale-down; /* Shows whole image, fills space, no cropping */
+  display: block;
+  border-radius: 6px;
+  background: #f8f8f8;
+}
 
   .research-box-title {
     font-weight: bold;
