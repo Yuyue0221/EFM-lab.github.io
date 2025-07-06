@@ -103,7 +103,7 @@ title: Research
 
   <div class="research-box">
     <img src="{{ "/images/assembly.png" | relative_url }}" alt="Assembly"> 
-    <div class="research-box-title">assembly</div>
+    <div class="research-box-title">Assembly</div>
   </div>
 
   <div class="research-box">
