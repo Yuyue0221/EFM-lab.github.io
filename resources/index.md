@@ -15,14 +15,19 @@ Journal Papers
 (\* denotes corresponding authors)
 
 
-### <span class="text-left"> 31. Effects of natural starch-phosphate monoester content on the multi-scale structures of potato starches
+<h3 style="text-align: left;">31. Effects of natural starch-phosphate monoester content on the multi-scale structures of potato starches</h3>
 
-   - Ding, L., Liang, W., Qu, J., Persson, S., Liu, X., Herburger, K., Kirkensgaard, J., Khakimov, B., Rasmussen, K., Blennow, A., & **Zhong, Y\***  
-   - Carbohydrate Polymers,  2023.
+<ul>
+  <li>Ding, L., Liang, W., Qu, J., Persson, S., Liu, X., Herburger, K., Kirkensgaard, J., Khakimov, B., Rasmussen, K., Blennow, A., & <strong>Zhong, Y*</strong></li>
+  <li><em>Carbohydrate Polymers</em>, 2023.</li>
+</ul>
 
-### 30. The relationship between starch structure and digestibility by time-course digestion of amylopectin-only and amylose-only barley starches  
-  - Liang, W., Ding, L., Guo, K., Liu, Y., Wen, X., Kirkensgaard, J. J. K., Khakimov, B., Rasmussen, K., Hebelstrup, K., Herburger, K., Liu, X., Persson, S., Blennow, A., & **Zhong, Y\***  
-  - Food Hydrocolloids, 2023.
+<h3 style="text-align: left;">30. The relationship between starch structure and digestibility by time-course digestion of amylopectin-only and amylose-only barley starches</h3>
+
+<ul>
+  <li>Liang, W., Ding, L., Guo, K., Liu, Y., Wen, X., Kirkensgaard, J. J. K., Khakimov, B., Rasmussen, K., Hebelstrup, K., Herburger, K., Liu, X., Persson, S., Blennow, A., & <strong>Zhong, Y*</strong></li>
+  <li><em>Food Hydrocolloids</em>, 2023.</li>
+</ul>
 
 ### 29. The effects of different types of high-amylose maize starches on viscosity and digestion of acidified milk gels  
   - Li, R., Ding, L., Guo, K., Qu, J., Herburger, K., Persson, S., Blennow, A., & **Zhong, Y\***  
