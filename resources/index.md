@@ -14,7 +14,7 @@ Journal Papers
 ======
 (\* denotes corresponding authors)
 
-### 31. Effects of natural starch-phosphate monoester content on the multi-scale structures of potato starches
+### <span class="text-left"> 31. Effects of natural starch-phosphate monoester content on the multi-scale structures of potato starches
 
    - Ding, L., Liang, W., Qu, J., Persson, S., Liu, X., Herburger, K., Kirkensgaard, J., Khakimov, B., Rasmussen, K., Blennow, A., & **Zhong, Y\***  
    - Carbohydrate Polymers,  2023.
