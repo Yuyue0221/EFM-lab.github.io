@@ -29,6 +29,11 @@ title: Research
   }
 
 
+  .research-box:hover {
+    transform: translateY(-5px);
+  }
+
+
 .research-box {
   width: 280px;
   height: 250px;
@@ -44,27 +49,20 @@ title: Research
   justify-content: flex-start;
 }
 
-
-  .research-box:hover {
-    transform: translateY(-5px);
-  }
-
-
 .research-box img {
   width: 100%;
-  height: 100%;      /* fill the box exactly */
-  object-fit: fill;  /* stretch/squash image to fill container */
+  flex-grow: 1;
+  object-fit: fill;
   border-radius: 6px;
   background: #f8f8f8;
   display: block;
 }
 
-
-  .research-box-title {
-    font-weight: bold;
-    margin-top: 0.8em;
-    font-size: 1.1em;
-  }
+.research-box-title {
+  font-weight: bold;
+  margin-top: 0.8em;
+  font-size: 1.1em;
+}
 </style>
 
 
