@@ -31,61 +31,61 @@ Journal Papers
 
 <h3 style="text-align: left;">29. The effects of different types of high-amylose maize starches on viscosity and digestion of acidified milk gels</h3>
 <ul>
-  <li>Li, R., Ding, L., Guo, K., Qu, J., Herburger, K., Persson, S., Blennow, A., & <strong>Zhong, Y\</strong>*</li>
+  <li>Li, R., Ding, L., Guo, K., Qu, J., Herburger, K., Persson, S., Blennow, A., & <strong>Zhong, Y</strong>*</li>
   <li><em>Food Chemistry</em>, 2023.</li>
 </ul>
 
 <h3 style="text-align: left;">28. Strategies for starch customization: Agricultural modification</h3>
 <ul>
-  <li>Guo, K., Liang, W., Wang, S., ... & <strong>Zhong, Y\</strong>*</li>
+  <li>Guo, K., Liang, W., Wang, S., ... & <strong>Zhong, Y</strong>*</li>
   <li><em>Carbohydrate Polymers</em>, 2023.</li>
 </ul>
 
 <h3 style="text-align: left;">27. Effects of natural starch-phosphate monoester content on the multi-scale structures of potato starches</h3>
 <ul>
-  <li>Ding, L., Liang, W., Qu, J., ... & <strong>Zhong, Y\</strong>*</li>
+  <li>Ding, L., Liang, W., Qu, J., ... & <strong>Zhong, Y</strong>*</li>
   <li><em>Carbohydrate Polymers</em>, 2023.</li>
 </ul>
 
 <h3 style="text-align: left;">26. Interfacial enzyme kinetics reveals degradation mechanisms behind resistant starch</h3>
 <ul>
-  <li>Tian, Y., Wang, Y., Liu, X., Herburger, K., Westh, P., Møller, M. S., Svensson, B., <strong>Zhong, Y\</strong>*, & Blennow, A*</li>
+  <li>Tian, Y., Wang, Y., Liu, X., Herburger, K., Westh, P., Møller, M. S., Svensson, B., <strong>Zhong, Y</strong>*, & Blennow, A*</li>
   <li><em>Food Hydrocolloids</em>, 2023.</li>
 </ul>
 
 <h3 style="text-align: left;">25. The effects of drought treatments on biosynthesis and structure of maize starches with different amylose content</h3>
 <ul>
-  <li>Wu, W., Qu, J., Blennow, A., Herburger, K., Hebelstrup, K. H., Guo, K., Xue, J., Xu, R., Zhu, C., <strong>Zhong, Y\</strong>*, & Guo, D.</li>
+  <li>Wu, W., Qu, J., Blennow, A., Herburger, K., Hebelstrup, K. H., Guo, K., Xue, J., Xu, R., Zhu, C., <strong>Zhong, Y</strong>*, & Guo, D.</li>
   <li><em>Carbohydrate Polymers</em>, 2022.</li>
 </ul>
 
 <h3 style="text-align: left;">24. The effects of fermentation of Qu on the digestibility and structure of waxy maize starch</h3>
 <ul>
-  <li>Wu, W., Zhang, X., Qu, J., Xu, R., Liu, N., Zhu, C., Li, H., Liu, X., <strong>Zhong, Y\</strong>*, & Guo, D.</li>
+  <li>Wu, W., Zhang, X., Qu, J., Xu, R., Liu, N., Zhu, C., Li, H., Liu, X., <strong>Zhong, Y</strong>*, & Guo, D.</li>
   <li><em>Frontiers in Plant Science</em>, 2022.</li>
 </ul>
 
 <h3 style="text-align: left;">23. The location of octenyl succinate anhydride groups in high-amylose maize starch granules and its effect on stability of pickering emulsion stability</h3>
 <ul>
-  <li>Li, J., Wang, Q., Blennow, A., Herburger, K., Zhu, C., Nurzikhan, S., Wie, J., <strong>Zhong, Y\</strong>*, & Guo, D*</li>
+  <li>Li, J., Wang, Q., Blennow, A., Herburger, K., Zhu, C., Nurzikhan, S., Wie, J., <strong>Zhong, Y</strong>*, & Guo, D*</li>
   <li><em>LWT</em>, 2022.</li>
 </ul>
 
 <h3 style="text-align: left;">22. High pressure/temperature pasting and gelling of starch related to multilevel structure-analyzed with RVA 4800</h3>
 <ul>
-  <li>Tian, Y., Qu, J., Zhou, Q., Ding, L., Cui, Y., Blennow, A., <strong>Zhong, Y\</strong>*, & Liu, X*</li>
+  <li>Tian, Y., Qu, J., Zhou, Q., Ding, L., Cui, Y., Blennow, A., <strong>Zhong, Y</strong>*, & Liu, X*</li>
   <li><em>Carbohydrate Polymers</em>, 2022.</li>
 </ul>
 
 <h3 style="text-align: left;">21. Biosynthesis, structure and functionality of starch granules in maize inbred lines with different kernel dehydration rate</h3>
 <ul>
-  <li>Qu, J., <strong>Zhong, Y\</strong>*, Ding, L., Liu, X., Xu, S., Guo, D., Blennow, A., & Xue, J.</li>
+  <li>Qu, J., <strong>Zhong, Y</strong>*, Ding, L., Liu, X., Xu, S., Guo, D., Blennow, A., & Xue, J.</li>
   <li><em>Food Chemistry</em>, 2022.</li>
 </ul>
 
 <h3 style="text-align: left;">20. Structural and functional characterizations of α-amylase-treated porous popcorn starch</h3>
 <ul>
-  <li>Song, Z., <strong>Zhong, Y\</strong>*, Tian, W., Zhang, C., Hansen, A. R., Blennow, A., Liang, W., & Guo, D.</li>
+  <li>Song, Z., <strong>Zhong, Y</strong>*, Tian, W., Zhang, C., Hansen, A. R., Blennow, A., Liang, W., & Guo, D.</li>
   <li><em>Food Hydrocolloids</em>, 2020.</li>
 </ul>
 
@@ -181,7 +181,7 @@ Journal Papers
 
 <h3 style="text-align: left;">4. Optimization of butter, xylitol, and high‐amylose maize flour on developing a low‐sugar cookie</h3>
 <ul>
-  <li>Song, Y., Li, X., & <strong>Zhong, Y\</strong>*</li>
+  <li>Song, Y., Li, X., & <strong>Zhong, Y</strong>*</li>
   <li><em>Food Science & Nutrition</em>, 2019.</li>
 </ul>
 
