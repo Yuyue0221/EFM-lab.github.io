@@ -10,4 +10,4 @@ email: zichen.cao@connect.polyu.hk
 ---
 PhD at Northeast Agricultural University
 
-Research interests: Plant protein amyloid fibrils.In vitro digestion; PDA photonic crystals.
+Research interests: Plant protein amyloid fibrils.
