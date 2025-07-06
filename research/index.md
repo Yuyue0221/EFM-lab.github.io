@@ -36,7 +36,7 @@ title: Research
 
 .research-box {
   width: 280px;
-  height: 250px;
+  height: 260px;
   background: #fff;
   border-radius: 10px;
   padding: 0.3em;
@@ -51,7 +51,7 @@ title: Research
 
 .research-box img {
   width: 100%;
-  height: 200px;
+  height: 230px;
   flex-grow: 1;
   object-fit: fill;
   border-radius: 6px;
