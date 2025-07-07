@@ -8,4 +8,4 @@ We are an interdisciplinary research team in the Department of Food Science and 
 
 我们是香港理工大学食品科学及营养学系的跨学科研究团队，致力于融合纳米材料科学、仿生光学工程与功能营养学，以应对健康、可持续与智慧材料领域的前沿挑战。通过材料设计与营养机制的深度交叉，我们开发创新解决方案，赋能食品与生物系统的新功能。
 
-{% include figure.html image="images/team.jpg" width="70%" %}
+{% include figure.html image="images/team.jpg" width="100%" %}
