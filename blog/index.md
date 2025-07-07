@@ -32,5 +32,3 @@ We’re excited to connect with you across multiple platforms.
     </tr>
   </table>
 </div>
-
-Thank you for your support — we look forward to sharing more with you!
