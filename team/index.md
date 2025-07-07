@@ -17,7 +17,7 @@ We are an interdisciplinary team dedicated to integrating nanomaterials science,
 ---
 
 ### Principal Investigator
-{% include team-list.html role="pi" group="pi" %}
+{% include team-list.html role="pi" group="pi" order="team_order" %}
 
 ---
 
