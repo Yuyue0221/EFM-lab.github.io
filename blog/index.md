@@ -6,7 +6,7 @@ title: Blog
 
 We’re excited to connect with you across multiple platforms. 
 
- <i class="fas fa-mobile-alt"></i> Scan any of the QR codes below to follow us on 小红书, Bilibili, 快手, and 抖音 — stay up to date with our latest content, behind-the-scenes insights, special announcements, and much more!
+ <i class="fas fa-mobile-alt"></i> Scan any of the QR codes below to follow us on **小红书**, **Bilibili**, **快手**, and **抖音** — stay up to date with our latest content, behind-the-scenes insights, special announcements, and much more!
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -30,3 +30,5 @@ We’re excited to connect with you across multiple platforms.
     </td>
   </tr>
 </table>
+
+Thank you for your support — we look forward to sharing more with you!
