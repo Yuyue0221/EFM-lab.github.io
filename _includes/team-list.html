@@ -1,42 +1,57 @@
 {% assign members = site.members %}
 
 {% if include.order and site.data[include.order] %}
-{% assign members = "" | split: "" %}
-{% for name in site.data[include.order] %}
-{% assign path = name | append: ".html" %}
-{% for member in site.members %}
-{% if member.url contains path %}
-{% assign members = members | push: member %}
-{% endif %}
-{% endfor %}
-{% endfor %}
+  {% assign members = "" | split: "" %}
+  {% for name in site.data[include.order] %}
+    {% assign path = name | append: ".html" %}
+    {% for member in site.members %}
+      {% if member.url contains path %}
+        {% assign members = members | push: member %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
 {% endif %}
 
 {% if include.role != nil %}
-{% if include.role == "" %}
-{% assign role = nil %}
-{% else %}
-{% assign role = include.role %}
-{% endif %}
-{% assign members = members | where_exp: "member", "member.role == role" %}
+  {% if include.role == "" %}
+    {% assign role = nil %}
+  {% else %}
+    {% assign role = include.role %}
+  {% endif %}
+  {% assign members = members | where_exp: "member", "member.role == role" %}
 {% endif %}
 
 {% if include.group != nil %}
-{% if include.group == "" %}
-{% assign group = nil %}
-{% else %}
-{% assign group = include.group %}
-{% endif %}
-{% assign members = members | where_exp: "member", "member.group == group" %}
+  {% if include.group == "" %}
+    {% assign group = nil %}
+  {% else %}
+    {% assign group = include.group %}
+  {% endif %}
+  {% assign members = members | where_exp: "member", "member.group == group" %}
 {% endif %}
 
+{%- comment -%}
+  Move Zhong Yuyue to the front manually
+{%- endcomment -%}
+{% assign yuyue = "" | split: "" %}
+{% assign rest = "" | split: "" %}
+
 {% for member in members %}
-{%-
-  include portrait.html
-  name=member.title
-  link=member.url
-  image=member.image
-  role=member.role
-  mini=include.mini
--%}
+  {% if member.title == "Zhong Yuyue" %}
+    {% assign yuyue = yuyue | push: member %}
+  {% else %}
+    {% assign rest = rest | push: member %}
+  {% endif %}
+{% endfor %}
+
+{% assign members = yuyue | concat: rest %}
+
+{% for member in members %}
+  {%- include portrait.html
+    name=member.title
+    link=member.url
+    image=member.image
+    role=member.role
+    mini=include.mini
+  -%}
 {% endfor %}
