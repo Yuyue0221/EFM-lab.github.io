@@ -23,7 +23,6 @@ We’re excited to connect with you across multiple platforms.
     <td align="center">
       <img src="/image/kuaishou.png" width="200"><br>
       <strong>快手</strong><br>
-      快手
     </td>
     <td align="center">
       <img src="/image/douyin.png" width="200"><br>
