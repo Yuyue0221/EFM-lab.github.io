@@ -1,30 +1,16 @@
-{% assign byyear = site.posts
-   | sort: "date"
-   | reverse
-   | where: "category","news"
-   | group_by_exp: "post","post.date | date: '%Y'"
-   | sort: "name"
-   | reverse %}
+{% assign byyear = site.posts | sort: "date" | reverse | where:"category","news" | group_by_exp: "post","post.date | date: '%Y'" | sort:"name" | reverse %}
 
 {% for yeargroup in byyear %}
 ### {{ yeargroup.name }}
 
 {% for post in yeargroup.items %}
-[**{{ post.title }}**]({{ post.url | relative_url }})
-{% include post-info.html post=post %}
-{% include tags.html tags=post.tags %}
+- [**{{ post.title }}**]({{ post.url | relative_url }})
+  {% include post-info.html post=post %}
+  {% include tags.html tags=post.tags %}
 
-{% comment %}
-  Option B: first paragraph, truncated by words.
-{% endcomment %}
-{% assign intro_paragraph = post.content
-   | strip_html
-   | split: "\n\n"
-   | first %}
-{{ intro_paragraph | truncatewords: 40 }}
+  {{ post.excerpt | strip_html }}
 
-{% if forloop.index < forloop.length %}
----
-{% endif %}
+  [Read more →]({{ post.url | relative_url }})
+
 {% endfor %}
 {% endfor %}
