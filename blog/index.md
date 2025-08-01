@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: we media
 ---
 
 # <i class="fas fa-feather-alt"></i>We Media
