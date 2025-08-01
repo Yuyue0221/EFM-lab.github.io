@@ -3,14 +3,14 @@ title: News
 ---
 
 
-# 📰 News
+# <i class="fas fa-feather-alt"></i>News
 {% include news-list.html %}
 
 {% include centerer.html html=html %}
 
 ---
 
-# 🎉 Eventsss
+# <i class="fas fa-feather-alt"></i>News
 {% include event-list.html %}
 
 {% include centerer.html html=html %}
