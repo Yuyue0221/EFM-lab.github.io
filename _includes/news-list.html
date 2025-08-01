@@ -1,3 +1,7 @@
+{% assign byyear = site.posts | sort: "date" | reverse | where:"category","news" | group_by_exp: "post","post.date | date: '%Y'" | sort:"name" | reverse %}
+
+{% for yeargroup in byyear %}
+### {{ yeargroup.name }}
 {% for post in site.posts %}
   <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   {% include post-info.html post=post %}
