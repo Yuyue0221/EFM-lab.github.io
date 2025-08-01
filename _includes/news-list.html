@@ -1,24 +1,32 @@
-{% assign byyear = site.posts | sort: "date" | reverse | where:"category","news" | group_by_exp: "post","post.date | date: '%Y'" | sort:"name" | reverse %}
+{% assign byyear = site.posts 
+   | sort: "date" 
+   | reverse 
+   | where: "category","news" 
+   | group_by_exp: "post","post.date | date: '%Y'" 
+   | sort: "name" 
+   | reverse %}
 
 {% for yeargroup in byyear %}
 ### {{ yeargroup.name }}
 
-{% for post in yeargroup.items %}
-  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-  {% include post-info.html post=post %}
-  {% include tags.html tags=post.tags %}
+  {% for post in yeargroup.items %}
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    {% include post‑info.html post=post %}
+    {% include tags.html tags=post.tags %}
 
-  <div class="excerpt-wrapper" style="background: transparent; padding: 0;">
-    {% if post.excerpt %}
-      <div class="excerpt" style="background: transparent; color: inherit; padding: 0;">
-        {{ post.excerpt | strip_html }}
-      </div>
-    {% else %}
-      <div class="excerpt" style="background: transparent; color: inherit; padding: 0;">
-        {{ post.content | strip_html | truncatewords: 40 }}
-      </div>
-    {% endif %}
-  </div>
+    <div class="excerpt‑wrapper" style="background: transparent; padding: 0;">
+      {% if post.excerpt %}
+        <div class="excerpt" style="background: transparent; color: inherit; padding: 0;">
+          {{ post.excerpt | strip_html }}
+        </div>
+      {% else %}
+        <div class="excerpt" style="background: transparent; color: inherit; padding: 0;">
+          {{ post.content | strip_html | truncatewords: 40 }}
+        </div>
+      {% endif %}
+    </div>
 
-  <a href="{{ post.url | relative_url }}">Read more →</a>
+    <a href="{{ post.url | relative_url }}">Read more →</a>
+  {% endfor %}
+
 {% endfor %}
