@@ -3,15 +3,16 @@ title: News
 ---
 
 
-# <i class="fas fa-feather-alt"></i>News
+# 📰 News
+{% assign news_items = site.categories.news | sort: "date" | reverse %}
+{% for post in news_items %}
+  ... render news ...
+{% endfor %}
 
-{% include news-list.html %}
+---
 
-{% include centerer.html html=html %}
-
-
-# <i class="fas fa-feather-alt"></i>Events
-
-{% include event-list.html %}
-
-{% include centerer.html html=html %}
+# 🎉 Events
+{% assign event_items = site.categories.blog | sort: "date" | reverse %}
+{% for post in event_items %}
+  ... render event ...
+{% endfor %}
