@@ -3,14 +3,20 @@
 {% for yeargroup in byyear %}
 ### {{ yeargroup.name }}
 
-{% for post in yeargroup.items %}
+{% for post in site.posts %}
   [**{{ post.title }}**]({{ post.url | relative_url }})
   {% include post-info.html post=post %}
   {% include tags.html tags=post.tags %}
 
-  {{ post.excerpt | strip_html }}
+  {% if post.content contains "<!-- begin_excerpt -->" %}
+    {% assign snippet = post.content
+      | split: "<!-- end_excerpt -->" | first
+      | split: "<!-- begin_excerpt -->" | last %}
+    {{ snippet | strip_html | strip_newlines }}
+  {% else %}
+    {{ post.excerpt | strip_html }}
+    {{ para | truncatewords: 40 }}
+  {% endif %}
 
   [Read more →]({{ post.url | relative_url }})
-
-{% endfor %}
 {% endfor %}
