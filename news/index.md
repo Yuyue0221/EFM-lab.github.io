@@ -10,7 +10,7 @@ title: News
 
 ---
 
-# 🎉 Events
+# 🎉 Eventsss
 {% include event-list.html %}
 
 {% include centerer.html html=html %}
