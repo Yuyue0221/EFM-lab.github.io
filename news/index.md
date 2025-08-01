@@ -1,6 +1,7 @@
 ---
 title: News 
 ---
+# <i class="fas fa-feather-alt"></i>News&Events
 
 # <i class="fas fa-feather-alt"></i>News
 
