@@ -3,7 +3,7 @@ title: News
 ---
 
 
-# 📰 News
+# 📰 Newsss
 {% assign news_items = site.categories.news | sort: "date" | reverse %}
 {% for post in news_items %}
   ... render news ...
