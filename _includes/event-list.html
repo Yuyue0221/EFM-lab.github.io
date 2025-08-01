@@ -4,16 +4,21 @@
 ### {{ yeargroup.name }}
 
 {% for post in yeargroup.items %}
-  [**{{ post.title }}**]({{ post.url | relative_url }})
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   {% include post-info.html post=post %}
   {% include tags.html tags=post.tags %}
 
-  {% if post.excerpt %}
-    {{ post.excerpt | strip_html }}
-  {% else %}
-    {{ post.content | strip_html | truncatewords: 40 }}
-  {% endif %}
+  <div class="excerpt-wrapper" style="background: transparent; padding: 0;">
+    {% if post.excerpt %}
+      <div class="excerpt" style="background: transparent; color: inherit; padding: 0;">
+        {{ post.excerpt | strip_html }}
+      </div>
+    {% else %}
+      <div class="excerpt" style="background: transparent; color: inherit; padding: 0;">
+        {{ post.content | strip_html | truncatewords: 40 }}
+      </div>
+    {% endif %}
+  </div>
 
-  [Read more →]({{ post.url | relative_url }})
-{% endfor %}
+  <a href="{{ post.url | relative_url }}">Read more →</a>
 {% endfor %}
