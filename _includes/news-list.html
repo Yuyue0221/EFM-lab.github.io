@@ -2,7 +2,8 @@
 
 {% for yeargroup in byyear %}
 ### {{ yeargroup.name }}
-{% for post in site.posts %}
+
+{% for post in yeargroup.items %}
   <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   {% include post-info.html post=post %}
   {% include tags.html tags=post.tags %}
