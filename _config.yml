@@ -62,3 +62,4 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 excerpt_separator: "<!--more-->"
+show_excerpts: true
