@@ -56,6 +56,6 @@ We are incredibly proud of all of our alumni. If you’re missing and would like
 ---
 
 ## <i class="fas fa-feather-alt"></i>Collaborating Lab
-We collaborate closely with **Prof. Chen Sheng** and his team,  whose research focuses on bacterial AMR, bacterial pathogenesis, and bacterial tolerance. Their work also advances novel antimicrobial drug discovery, vaccine and monoclonal antibody therapy development, as well as genomics, metagenomics, and One Health research.. Their innovative work complements our own and fosters a productive exchange of ideas.
+We collaborate closely with **Prof. Chen Sheng** and his team,  whose research focuses on bacterial AMR, bacterial pathogenesis, and bacterial tolerance. Their work also advances novel antimicrobial drug discovery, vaccine and monoclonal antibody therapy development, as well as genomics, metagenomics, and One Health research. Their innovative work complements our own and fosters a productive exchange of ideas.
 
 [Visit Prof. Chen’s Lab Website →](https://sc-grouphk.github.io/team/){: target="_blank" rel="noopener"}
