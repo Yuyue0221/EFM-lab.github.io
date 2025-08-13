@@ -54,7 +54,7 @@ We are incredibly proud of all of our alumni. If you’re missing and would like
 {% include team-list.html role="phd-g" group="alumni" %}
 
 ---
-## Collaborating Lab
+## <i class="fas fa-feather-alt"></i>Collaborating Lab
 
 We collaborate closely with **Prof. Chen Sheng** and his team,  whose research focuses on bacterial AMR, bacterial pathogenesis, and bacterial tolerance. Their work also advances novel antimicrobial drug discovery, vaccine and monoclonal antibody therapy development, as well as genomics, metagenomics, and One Health research.. Their innovative work complements our own and fosters a productive exchange of ideas.
 
