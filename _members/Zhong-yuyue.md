@@ -24,6 +24,8 @@ The young editor, Grain and Oil Science and Technology
 
 **Publications**
 
+You can also find my articles on my Google Scholar profile. {: .notice--info}
+
 2025
 
 Litchi polyphenols and carboxylated cellulose nanofiber synergistically improve the gel properties of κ-carrageenan gels: Insight from rheology, morphology and interaction computational simulation
