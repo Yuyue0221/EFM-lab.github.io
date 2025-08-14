@@ -86,3 +86,32 @@ The effects of different types of high-amylose maize starches on viscosity and d
 Beneficial glycaemic effects of barley bread compared to wheat bread in type 2 diabetes
 
 Impact of a Full Range of Amylose Level on Pasting and Gelling Properties of Barley Starches at High‐Temperature Heating
+
+2022
+
+Effects of growth temperature on multi-scale structure of root tuber starch in sweet potato
+
+The effects of drought treatments on biosynthesis and structure of maize starches with different amylose content
+
+The location of octenyl succinate anhydride groups in high-amylose maize starch granules and its effect on stability of pickering emulsion stability
+
+High pressure/temperature pasting and gelling of starch related to multilevel structure-analyzed with RVA 4800
+
+Effects of elevated CO2 on grain yield and quality in five wheat cultivars
+
+The effects of fermentation of Qu on the digestibility and structure of waxy maize starch
+
+Different genetic strategies to generate high amylose starch mutants by engineering the starch biosynthetic pathways
+
+Recent advances in enzyme biotechnology on modifying gelatinized and granular starch
+
+High amylose-based bio composites: Structures, functions and applications
+
+Ethanol pretreatment increases the efficiency of maltogenic α-amylase and branching enzyme to modify the structure of granular native maize starch
+
+Biosynthesis, structure and functionality of starch granules in maize inbred lines with different kernel dehydration rate
+
+Understanding of the Sabatier principle in granular starch hydrolysis by starch binding domain fusions of a psychrophilic alpha-amylase
+
+Rice starch multi-level structure and functional relationships
+
