@@ -181,13 +181,19 @@ Nutritional, physical and sensory properties of extruded products from high-amyl
 
 玉米单籽粒及单穗籽粒直链淀粉质量分数 NIRS 模型的建立与验证
 
+2016
+
 Effects of extrusion treatment on physicochemical properties and in vitro digestion of pregelatinized high amylose maize flour
 
 玉米直链淀粉的分离与鉴定
 
 盐对不同直链含量玉米淀粉理化特性及流变学特性的影响
 
+2015
+
 基于 SNP 标记的陕单 609 杂优模式分析
+
+2014
 
 Physicochemical properties of high-amylose maize starch
 
