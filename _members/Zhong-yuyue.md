@@ -115,3 +115,23 @@ Understanding of the Sabatier principle in granular starch hydrolysis by starch 
 
 Rice starch multi-level structure and functional relationships
 
+2021
+
+The effects of molecular fine structure on rice starch granule gelatinization dynamics as investigated by in situ small-angle X-ray scattering
+
+Sequential maltogenic α-amylase and branching enzyme treatment to modify granular corn starch
+
+Optimal extraction methods for high amylose maize starch studied by size-exclusion chromatography (SEC) and small-angle X-ray scattering (SAXS)
+
+Effects of supplemental irrigation on winter wheat starch structure and properties under ridge-furrow tillage and flat tillage
+
+Influence of microwave treatment on the structure and functionality of pure amylose and amylopectin systems
+
+Structural features of five types of maize starch granule subgroups sorted by flow cytometry
+
+Relationship between molecular structure and lamellar and crystalline structure of rice starch
+
+Expression pattern of starch biosynthesis genes in relation to the starch molecular structure in high-amylose maize
+
+Generation of short-chained granular corn starch by maltogenic α-amylase and transglucosidase treatment
+
