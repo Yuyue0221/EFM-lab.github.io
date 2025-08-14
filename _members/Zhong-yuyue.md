@@ -135,3 +135,37 @@ Expression pattern of starch biosynthesis genes in relation to the starch molecu
 
 Generation of short-chained granular corn starch by maltogenic α-amylase and transglucosidase treatment
 
+2020
+
+Structural characterization and functionality of starches from different high-amylose maize hybrids
+
+The relationship between the expression pattern of starch biosynthesis enzymes and molecular structure of high amylose maize starch
+
+Amylopectin starch granule lamellar structure as deduced from unit chain length data
+
+Amylose content and specific fine structures affect lamellar structure and digestibility of maize starches
+
+Structural and functional characterizations of α-amylase-treated porous popcorn starch
+
+Preparation of starch citrates using solvent free reaction and comparison with aqueous and ethanol mediated reactions
+
+2019
+
+Optimization of butter, xylitol, and high‐amylose maize flour on developing a low‐sugar cookie
+
+Short-time microwave treatment affects the multi-scale structure and digestive properties of high-amylose maize starch
+
+Comparative transcriptomics reveals the difference in early endosperm development between maize with different amylose contents
+
+2018
+
+Evolutionary, structural and expression analysis of core genes involved in starch synthesis
+
+Effects of different thermal treatment methods on preparation and physical properties of high amylose maize starch based films
+
+High-amylose starch as a new ingredient to balance nutrition and texture of food
+
+Bivariate flow cytometric analysis and sorting of different types of maize starch grains
+
+Comparison of gelatinization method, starch concentration, and plasticizer on physical properties of high‐amylose starch films
+
