@@ -56,3 +56,33 @@ Beneficial glycaemic effects of high-amylose barley bread compared to wheat brea
 
 Characterization of different high amylose starch granules. Part I: Multi-scale structures and relationships to thermal properties
 
+2023
+
+High-pressure pasting performance and multilevel structures of short-term microwave-treated high-amylose maize starch
+
+Strategies for starch customization: Agricultural modification
+
+Periodic changes in chain lengths distribution parameters of wheat starch during endosperm development
+
+High-amylose starch: Structure, functionality and applications
+
+A new insight into the biosynthesis, structure, and functionality of waxy maize starch under drought stress
+
+Interfacial enzyme kinetics reveals degradation mechanisms behind resistant starch
+
+Effects of natural starch-phosphate monoester content on the multi-scale structures of potato starches
+
+Improved hydrolysis of granular starches by a psychrophilic α-amylase starch binding domain-fusion
+
+The relationship between starch structure and digestibility by time-course digestion of amylopectin-only and amylose-only barley starches
+
+Insights into high hydrostatic pressure pre-treatment generating a more efficient catalytic mode of maltogenic α-amylase: Effect of multi-level structure on retrogradation properties of maize starch
+Interfacial catalysis during amylolytic degradation of starch granules: Current understanding and kinetic approaches
+
+Starch granular size and multi-scale structure determine population patterns in bivariate flow cytometry sorting
+
+The effects of different types of high-amylose maize starches on viscosity and digestion of acidified milk gels
+
+Beneficial glycaemic effects of barley bread compared to wheat bread in type 2 diabetes
+
+Impact of a Full Range of Amylose Level on Pasting and Gelling Properties of Barley Starches at High‐Temperature Heating
