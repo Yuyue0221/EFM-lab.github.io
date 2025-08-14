@@ -169,3 +169,27 @@ Bivariate flow cytometric analysis and sorting of different types of maize starc
 
 Comparison of gelatinization method, starch concentration, and plasticizer on physical properties of high‐amylose starch films
 
+玉米直链淀粉的提取与高直链淀粉膜的制备
+
+2017
+
+Nutritional, physical and sensory properties of extruded products from high-amylose corn grits
+
+不同直链淀粉含量玉米粉和玉米淀粉的理化特性差异分析
+
+水稻粉质胚乳突变体 flo (t) 的子粒性状及淀粉理化特性分析
+
+玉米单籽粒及单穗籽粒直链淀粉质量分数 NIRS 模型的建立与验证
+
+Effects of extrusion treatment on physicochemical properties and in vitro digestion of pregelatinized high amylose maize flour
+
+玉米直链淀粉的分离与鉴定
+
+盐对不同直链含量玉米淀粉理化特性及流变学特性的影响
+
+基于 SNP 标记的陕单 609 杂优模式分析
+
+Physicochemical properties of high-amylose maize starch
+
+高直链玉米淀粉的理化特性研究
+
