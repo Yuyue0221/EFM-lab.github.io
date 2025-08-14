@@ -21,3 +21,5 @@ Doctor of Philosophy, University of Copenhagen
 **Academic and Professional Experience**
 
 The young editor, Grain and Oil Science and Technology 
+
+**Publications**
