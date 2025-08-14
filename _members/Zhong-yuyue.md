@@ -24,7 +24,7 @@ The young editor, Grain and Oil Science and Technology
 
 **Publications**
 
-You can also find my articles on my Google Scholar profile. {: .notice--info}
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=UqroHmgAAAAJ&hl=zh-CN). {: .notice--info}
 
 2025
 
