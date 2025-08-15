@@ -27,13 +27,11 @@ The young editor, Grain and Oil Science and Technology
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=UqroHmgAAAAJ&hl=zh-CN). 
 
 2025
+<div>76. Litchi polyphenols and carboxylated cellulose nanofiber synergistically improve the gel properties of κ-carrageenan gels: Insight from rheology, morphology and interaction computational simulation</div>
 
-<p>
-76. Litchi polyphenols and carboxylated cellulose nanofiber synergistically improve the gel properties of κ-carrageenan gels: Insight from rheology, morphology and interaction computational simulation
+<div>75. Unravelling the mechanism of enzymatic resistance in different high amylose starch granules</div>
 
-75. Unravelling the mechanism of enzymatic resistance in different high amylose starch granules
-
-74. Multi-scale structural and functional enhancement of starch in sweet potato anthocyanin biosynthesis-deficient mutant: Insights into mechanisms and food application
+<div>74. Multi-scale structural and functional enhancement of starch in sweet potato anthocyanin biosynthesis-deficient mutant: Insights into mechanisms and food application</div>
 
 73. GBSSI loss-of-function in potato affects dynamics in starch biosynthesis and breakdown in leaves and alters leaf starch multi-level structure
 
