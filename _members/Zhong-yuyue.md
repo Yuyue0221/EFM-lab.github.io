@@ -28,7 +28,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 2025
 
-<h3 style="text-align: left;">76. Litchi polyphenols and carboxylated cellulose nanofiber synergistically improve the gel properties of κ-carrageenan gels: Insight from rheology, morphology and interaction computational simulation</h3>
+Litchi polyphenols and carboxylated cellulose nanofiber synergistically improve the gel properties of κ-carrageenan gels: Insight from rheology, morphology and interaction computational simulation
 
 Unravelling the mechanism of enzymatic resistance in different high amylose starch granules
 
