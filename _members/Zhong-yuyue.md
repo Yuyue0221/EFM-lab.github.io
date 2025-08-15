@@ -27,9 +27,12 @@ The young editor, Grain and Oil Science and Technology
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=UqroHmgAAAAJ&hl=zh-CN). 
 
 2025
+
 <div>76. Litchi polyphenols and carboxylated cellulose nanofiber synergistically improve the gel properties of κ-carrageenan gels: Insight from rheology, morphology and interaction computational simulation</div>
 
+
 <div>75. Unravelling the mechanism of enzymatic resistance in different high amylose starch granules</div>
+
 
 <div>74. Multi-scale structural and functional enhancement of starch in sweet potato anthocyanin biosynthesis-deficient mutant: Insights into mechanisms and food application</div>
 
@@ -38,7 +41,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 72. Characterization of different high amylose starch granules. Part III: How starch fine structures affect retrogradation and formation of type 3 resistant starch
 
 71. Mechanism of maltogenic α-amylase modification on barley granular starches spanning the full range of amylose
-</p>
 
 2024
 
